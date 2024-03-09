@@ -1,0 +1,58 @@
+body{
+    font-family: "Agency FB";
+    text-align: center;
+    background-color: black;
+
+}
+
+#map{
+    background-image: url("snow.gif");
+    width: 500px;
+    height: 500px;
+}
+
+#leftside
+{
+    text-align: left;
+}
+
+#bottomRight
+{
+    position: absolute;
+    top: 1px;
+    left: 1px;
+
+}
+
+#anthem
+{
+    text-align: center;
+}
+
+#top
+{
+    position: absolute;
+    top: 1px;
+    right: 1px;
+}
+
+#new
+{
+    display: block;
+    right: 1px;
+
+}
+
+#reload
+{
+    position: absolute;
+    text-align: center;
+
+}
+
+#pic5
+{
+    position: absolute;
+    right: 1px;
+    bottom: 2px;
+}
