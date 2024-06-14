@@ -1,11 +1,5 @@
-This game is a Soviet propaganda version of Space Invaders. Instead of aliens, Red Square is being attacked by zombies. Only the glorious command of Russia Joseph Stalin can save the motherland from the Undead horde.
+Introducing a satirical masterpiece: "Red Square Defense." This game offers a unique twist on the classic Space Invaders format, transforming the iconic Red Square into a battleground against an undead onslaught. Players assume the role of the esteemed leader of Russia, Joseph Stalin, tasked with defending the motherland from the relentless zombie horde.
 
-Users can play as random people in the Red Army to shoot zombies
-Users can move left to right to help eliminate the zombies more effectively 
-The game score is set very low i plan to make a boss level eventually
+Restricted to horizontal movement and armed solely with the ability to fire, players must strategically eliminate approaching zombies before they breach the defenses and reach Joseph Stalin. As players progress and achieve set scoring milestones, a cascade of propaganda elements celebrates their triumphs, reinforcing the game's thematic depth.
 
-Upcoming features
-
-Power-ups 
-multiplayer
-2 players at once
+Crafted meticulously using CSS, JavaScript, and HTML, "Red Square Defense" is a testament to creativity and technical prowess. It's important to note that while the game is intended as a comedic endeavor, it stands as a testament to the creator's artistic expression and does not espouse any specific political ideologies or viewpoints.
